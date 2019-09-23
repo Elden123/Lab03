@@ -1,0 +1,22 @@
+p {
+    background-color: grey;
+    color: white;
+    width: 500px;
+    font-family: arial;
+    font-size: 20px;
+}
+
+body {
+    background-image: url(imgs/background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    color: blue;
+}
